@@ -25,6 +25,6 @@ Besides coding, I love sharing my thoughts and expertise around test automation 
 
 Whether you want to schedule a call with me, have a question I can help with, or want to say hi, I'd love to hear from you.
 
-- Send me a message through my contact page ([https://dennmart.com/contact/](https://dennmart.com/contact/))
+- Send me a message on my website ([https://dennmart.com/](https://dennmart.com/))
 - Follow me on Twitter ([@dennmart](https://twitter.com/dennmart))
 - Connect with me on LinkedIn ([https://linkedin.com/in/dennmart](https://linkedin.com/in/dennmart/))
