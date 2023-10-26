@@ -6,9 +6,9 @@ I'm a freelance software engineer currently living in Osaka, Japan. I work with 
 
 With over 19 years of experience working with startups and small organizations worldwide, I specialize in a variety of areas, including:
 
+- DevOps engineering
 - Full-stack web development (primarily Ruby on Rails)
 - Test automation for web applications 
-- DevOps engineering
 
 Besides my long-running career, I also hold a few certifications that have allowed me to expand my knowledge to help companies with their needs:
 
@@ -19,7 +19,9 @@ Besides my long-running career, I also hold a few certifications that have allow
 
 ## 📝 Blogging & Writing
 
-Besides coding, I love sharing my thoughts and expertise around test automation on my blog, [Dev Tester](https://dev-tester.com/). With over 75 articles written since 2020, I've been writing to help others become better testers with fully-fledged tutorials and advice on doing their best work within their organization. 
+Besides coding, I love sharing my thoughts and expertise around test automation on my blog, [Dev Tester](https://dev-tester.com/). With over 125 articles written since 2020, I've been writing to help others become better testers with fully-fledged tutorials and advice on doing their best work within their organization.
+
+I also write for [my personal website](https://dennmart.com/articles/) with insights, tutorials, and resources covering topics such as Ruby on Rails, AWS, Terraform, and more.
 
 ## 🤝 I'm Available For Work - Let's Chat!
 
