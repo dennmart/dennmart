@@ -4,7 +4,7 @@ I'm a freelance software engineer currently living in Osaka, Japan. I work with 
 
 ## 🛠️ Skills & Expertise
 
-With over 19 years of experience working with startups and small organizations worldwide, I specialize in a variety of areas, including:
+With over 20 years of experience working with startups and small organizations worldwide, I specialize in a variety of areas, including:
 
 - DevOps engineering
 - Full-stack web development (primarily Ruby on Rails)
